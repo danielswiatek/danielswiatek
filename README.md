@@ -1,4 +1,4 @@
-<img src="profile_1.png">
+<img src="https://github.com/danielswiatek/danielswiatek/raw/master/profile_1.png">
 
 ### I work as ceo on these companies
 - [CODEANKER GmbH](https://codeanker.de) - Software Development from Flensburg
