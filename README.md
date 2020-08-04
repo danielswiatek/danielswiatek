@@ -5,4 +5,4 @@
 - [Baron Technologies](https://barontech.de) - Iinsuretech from Flensburg, Hamburg, Munich and Berlin
 - [Praecura](https://praecura.de) - insurtech product from Baron Technologies
 - [Ehrenamt24](https://www.ehrenamt24.de) - software for societies and associations from Munich
-- [MySolution Online Application Services GmbH](https://mysolution.de) - software development for insurances from Hamburg
+- [MySolution Online Application Services](https://mysolution.de) - software development for insurances from Hamburg
